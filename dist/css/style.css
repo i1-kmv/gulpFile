@@ -1,8 +1,0 @@
-p {
-  color: blue;
-}
-
-.no-webp div {
-  background: url("../img/b.jpg"); }
-
-.webp div { background: url(../img/b.webp); }
